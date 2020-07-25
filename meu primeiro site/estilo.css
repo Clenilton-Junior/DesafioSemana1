@@ -1,0 +1,22 @@
+h1 {
+    background-color: rgb(57, 121, 180);
+    padding-left: 60px;
+    padding: 25px;
+    color: white;
+}
+.pg {
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: silver;
+}
+.tt {
+    padding-left: 100px;
+    background-color: rgb(57, 121, 180);
+    color: snow;
+}
+.ph {
+    padding-left: 400px;
+}
+#ti {
+    color: sienna;
+}
